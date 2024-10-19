@@ -93,7 +93,7 @@ plt.show()
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/57a30573-404e-4b10-8feb-a53aff017f7c)
+![WhatsApp Image 2024-10-19 at 13 58 04_a6407122](https://github.com/user-attachments/assets/36d5d223-03dc-4d2b-bd27-20625768790e)
 
 
 ### Result:
